@@ -1,0 +1,1 @@
+D:\VSCODE\NetSecurityLab\.venv\Scripts\pyuic6.exe -x .\main_window.ui -o main_window.py
